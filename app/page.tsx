@@ -5,7 +5,7 @@ export default function Home() {
       <header className="flex items-center justify-between px-10 py-6 bg-white">
         <div className="flex items-center space-x-3">
           <img
-            src="/public/Logo-stm.png"
+            src="/Logo-stm.png"
             alt="Smarter Than Mum logo"
             className="h-12 w-auto"
           />
@@ -29,7 +29,7 @@ export default function Home() {
       <section className="grid grid-cols-1 md:grid-cols-2 gap-12 px-10 py-24 items-center">
         <div>
           <h1 className="text-5xl font-semibold leading-tight">
-            Nurturing confident learners for a global future
+            Nurturing confident learners for a future
           </h1>
           <p className="mt-6 max-w-xl text-lg text-gray-600">
             Smarter Than Mum provides structured programs in writing, oral
