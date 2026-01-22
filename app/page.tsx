@@ -5,7 +5,7 @@ export default function Home() {
       <header className="flex items-center justify-between px-10 py-6 bg-white">
         <div className="flex items-center space-x-3">
           <img
-            src="/logo-stm.png"
+            src="/public/Logo-stm.png"
             alt="Smarter Than Mum logo"
             className="h-12 w-auto"
           />
